@@ -1,0 +1,11 @@
+An eclipse project for a STM32f103c8t6 arm system.
+
+Will initialise the uart1 and 2 pins on an stm32f103c8t6 development board and wait for key strokes from the keyboard and replay them. 
+It also blinks pc13 so you know all is working. 
+
+this project is built on the PA13 blink program.
+ It is the default program when creating a basic "hello world" for the stm32f103.
+
+You can download the whole project and import it into eclipse.
+
+
